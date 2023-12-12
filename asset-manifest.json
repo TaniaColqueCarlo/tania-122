@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tania-122/static/css/main.1a41aac1.css",
+    "main.js": "/tania-122/static/js/main.8880b576.js",
+    "static/media/fondo-uno.jpg": "/tania-122/static/media/fondo-uno.c99f20885941ed9dc8e1.jpg",
+    "static/media/foto.jpeg": "/tania-122/static/media/foto.58f605a85e3f029ea839.jpeg",
+    "index.html": "/tania-122/index.html",
+    "main.1a41aac1.css.map": "/tania-122/static/css/main.1a41aac1.css.map",
+    "main.8880b576.js.map": "/tania-122/static/js/main.8880b576.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a41aac1.css",
+    "static/js/main.8880b576.js"
+  ]
+}
